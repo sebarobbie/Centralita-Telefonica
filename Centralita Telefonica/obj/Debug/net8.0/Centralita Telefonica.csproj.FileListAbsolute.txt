@@ -1,0 +1,14 @@
+D:\Coding\Centralita Telefonica\bin\Debug\net8.0\Centralita Telefonica.exe
+D:\Coding\Centralita Telefonica\bin\Debug\net8.0\Centralita Telefonica.deps.json
+D:\Coding\Centralita Telefonica\bin\Debug\net8.0\Centralita Telefonica.runtimeconfig.json
+D:\Coding\Centralita Telefonica\bin\Debug\net8.0\Centralita Telefonica.dll
+D:\Coding\Centralita Telefonica\bin\Debug\net8.0\Centralita Telefonica.pdb
+D:\Coding\Centralita Telefonica\obj\Debug\net8.0\Centralita Telefonica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Centralita Telefonica\obj\Debug\net8.0\Centralita Telefonica.AssemblyInfoInputs.cache
+D:\Coding\Centralita Telefonica\obj\Debug\net8.0\Centralita Telefonica.AssemblyInfo.cs
+D:\Coding\Centralita Telefonica\obj\Debug\net8.0\Centralita Telefonica.csproj.CoreCompileInputs.cache
+D:\Coding\Centralita Telefonica\obj\Debug\net8.0\Centralita Telefonica.dll
+D:\Coding\Centralita Telefonica\obj\Debug\net8.0\refint\Centralita Telefonica.dll
+D:\Coding\Centralita Telefonica\obj\Debug\net8.0\Centralita Telefonica.pdb
+D:\Coding\Centralita Telefonica\obj\Debug\net8.0\Centralita Telefonica.genruntimeconfig.cache
+D:\Coding\Centralita Telefonica\obj\Debug\net8.0\ref\Centralita Telefonica.dll
